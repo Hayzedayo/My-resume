@@ -1,0 +1,22 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 15px;
+    
+}
+.profession {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+.achievements {
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+}
+.date {
+    margin-top: 2px;
+}
+footer {
+    text-align: center;
+}
